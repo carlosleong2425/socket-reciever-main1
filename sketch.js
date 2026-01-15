@@ -1,5 +1,5 @@
 let socket;
-let nombreCanal = "canal 22"; // DEBE ser el mismo que el del emisor
+let nombreCanal = "canal 20"; // DEBE ser el mismo que el del emisor
 let valorRecibido = 0;
 
 function setup() {
